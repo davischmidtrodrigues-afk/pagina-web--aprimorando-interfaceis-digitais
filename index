@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 
     <style>header{
-            background-color: #389e19;
+            background-color: #d83b26;
             color: black;
             text-align: center;
             max-width: 800px;
@@ -16,13 +16,13 @@
         }   
         main{
             background-color: black;
-            color: #29b848;
+            color: #9511ee;
             max-width: 800px;
             margin: 0 auto;
             padding: 16px;
         }
          nav{
-            background-color: #2c8b20;
+            background-color: #8710ac;
             color: black;
             text-align: center;
             max-width: 800px;
@@ -83,6 +83,5 @@
 <footer>
     <p>© 2026 Davi Augusto.</p>
 </footer>
-
 <script src="script.js"></script>
 </html>
